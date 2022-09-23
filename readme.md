@@ -1,4 +1,4 @@
-# 04_Code_Quiz_NN
+# 04_Code_Quiz
 BootCamp Homework - 04 Web APIs: Code Quiz
 
 ## Acceptance Criteria
