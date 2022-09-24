@@ -1,5 +1,5 @@
-# 04_Code_Quiz
-BootCamp Homework - 04 Web APIs: Code Quiz
+## Timed Quiz
+https://shaynekaruna.github.io/TimedQuiz/
 
 ## Acceptance Criteria
 
